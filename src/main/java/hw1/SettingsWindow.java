@@ -5,6 +5,7 @@ import javax.swing.event.ChangeListener;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+
 /*
 Первое задание – добавить на экран компоновщик-сетку с одним столбцом и добавить над существующей
  кнопкой следующие компоненты в заданном порядке: JLabel с заголовком «Выберите режим игры»,

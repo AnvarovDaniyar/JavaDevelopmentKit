@@ -32,7 +32,6 @@ public class Map extends JPanel {
     private int wLen;
 
     Map() {
-
         addMouseListener(new MouseAdapter() {
             @Override
             public void mouseReleased(MouseEvent e) {
