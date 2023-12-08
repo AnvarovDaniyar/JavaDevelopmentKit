@@ -6,6 +6,7 @@ package seminar2;
 Реализовать класс фулстэк разработчика, создать экземпляр и последовательно вызвать
 все его методы.
  */
+
 abstract class Developer {
     protected void developGUI() {
     }

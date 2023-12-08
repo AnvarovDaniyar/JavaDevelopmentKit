@@ -15,4 +15,5 @@ public class FullStack extends Developer implements BackendAction, FrontAction{
     public void developGUI() {
         System.out.println("FullStack GUI method");
     }
+
 }
